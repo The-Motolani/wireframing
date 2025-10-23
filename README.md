@@ -163,6 +163,41 @@ For the referenced design: [Figma project “Project Airbnb”](https://www.figm
 
 - Therefore, it is best classified as a high-fidelity wireframe (or bordering on a styled prototype) — since it goes beyond basic skeleton and enters realistic interface territory.
 
+## Popular Wireframing Tools
+
+Here’s a quick overview of some well-known wireframing tools and a spotlight on one recommended tool.
+
+### 🔧 Tool Highlights
+
+- **Figma** – Browser-based design and collaboration platform.
+
+- **Sketch** – Mac-only vector design tool with strong UI-design features.
+
+- **Adobe XD** – Cross-platform UX/UI design tool by Adobe (though its development has slowed).
+
+- **Axure RP** – Powerful tool for wireframes and advanced prototyping, often used in enterprise.
+
+### Why Figma is a Recommended Tool
+
+#### Overview of Figma:
+
+- Figma runs in the browser and supports real-time collaboration, meaning multiple designers/stakeholders can view and edit together. 
+
+- It offers dedicated wireframe kits and templates (pre-built components such as navigation bars, placeholders) which speed up wireframing. 
+
+- You can easily move from wireframe to prototype using Figma’s prototyping features (links, interactions, flows) without switching tools. 
+
+- Its multi-platform accessibility (web + desktop) and strong plugin/community ecosystem mean designers can extend functionality and use ready-made resources. 
+
+#### Why it’s useful for wireframing:
+
+- **Speed & flexibility:** Because of the built-in wireframe kits and drag-and-drop components, you can quickly sketch layout, navigation and content placement without worrying about full visuals. 
+
+- **Collaboration & stakeholder alignment:** Real-time sharing allows stakeholders to comment, iterate jointly and avoid disconnect between design and business. 
+
+- **Iterative workflow:** You can start with low-fidelity wireframes (just structure) and gradually refine into higher-fidelity prototypes all within the same tool. 
+
+- **Developer hand-off & consistency:** Because Figma supports design systems, components, and exportable assets, it bridges design and development more smoothly.
 
 
 
