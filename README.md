@@ -1,4 +1,4 @@
-# WIREFRAMING
+# Wireframing
 
 ## What is Wireframing?
 
@@ -243,4 +243,44 @@ Because wireframes expose structural issues, navigation pitfalls and feature gap
 
 - Data suggests that many usability or functionality issues can be caught in the wireframe stage far more cost-effectively.
 
+## Real-World Scenario: Foot Locker Size Filter Redesign
 
+### Context
+
+The team at Foot Locker observed that customers on the product listing pages (PLPs) were required to first select Gender and Product Type before they could filter by Size. This flow created friction and added extra steps for users who often knew their size and wanted to filter immediately. 
+
+#### Wireframing & Usability Issues Identified
+
+- During the wireframing phase, designers created several wireframe prototypes of alternate filtering layouts wherein the “Size” filter appeared earlier in the flow (immediately on the PLP) rather than buried behind other selections. The wireframes exposed these issues:
+
+- Users couldn’t quickly filter by size, which is often their primary criterion.
+
+- The original flow forced unnecessary selections and created cognitive load.
+
+- The placement of filters and the number of steps were causing drop-off.
+
+#### Resolution
+
+Based on wireframe testing and prototyping, the team selected a layout where size filtering is front-and-centre on the PLP, enabling users to immediately enter their size constraint. They then upgraded the wireframe to an interactive prototype, tested it and selected the best version. Ultimately this new design was implemented and rolled out.
+
+#### **Impact on Final Product**
+
+- The new filtering flow resulted in improved user task efficiency (users reached their desired products faster).
+
+- The [case study](https://www.scarpiello.com/case-studies.html) estimates a projected incremental revenue increase of US $29.2 million due to improved filter design.
+
+- Because the wireframe identified the friction early, the team avoided costly rework after development and ensured the design aligned more closely with user needs.
+
+#### **Conclusion: The Role of Wireframing in Ensuring User-Friendly Design**
+
+- Wireframing plays a critical role in the software design and development process by:
+
+- Making design assumptions visible early—so interactions, flows and layout can be tested before heavy investment in development.
+
+- Allowing usability issues to surface before code is written. In the Foot Locker example the size-filter friction was discovered at the wireframe stage, not post-launch.
+
+- Facilitating alignment and communication among designers, developers, stakeholders and users—everyone can review the wireframes and agree on flow and structure.
+
+- Reducing cost and risk—fixing layout and flow issues in wireframes is far cheaper than redesigning after coding or release.
+
+- Improving user experience—by focusing on users’ tasks (e.g., filter by size) and smoothing flows, the final product becomes more intuitive and efficient.
